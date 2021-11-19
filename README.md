@@ -1,4 +1,9 @@
-## Hello, i'm Jefferson Raimon!
+## Jefferson J. Raimon
+
+About me:
+
+**License in Computer studant - [UFBA](https://ufba.br)** | **Amateur Photographer - [Behance](https://www.behance.net/jeffersonraimon) / [Instagram](https://www.instagram.com/raimonsclicks/)** | **Filmmaker and Video Editor - [SquadREC](https://www.instagram.com/squad.rec/)**
+
 
 <!--
 - 🔭 I’m currently working on ...
