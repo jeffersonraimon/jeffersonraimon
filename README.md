@@ -9,7 +9,7 @@
 ### 🔭 I’m currently working and studying with:
 - **Basic Programming and Programming Contests**
 - **Infra, Network, Linux Terminal, Git, Docker, Virtual Machines**
-- **Hackintosh, Final Cut Pro, Logic Pro, Photoshop** 
+- **Hackintosh, Final Cut Pro, Logic Pro, Photoshop, Lightroom** 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
