@@ -12,7 +12,7 @@
 - **Linux Terminal, Windows, Active Directory, Git, Docker, AWS**
 - **Hackintosh, Final Cut Pro, Logic Pro, Photoshop, Lightroom** 
 
-### ⚡ My Github Stats
+### ⚡ My GitHub Stats
 ---
 
 <div>
