@@ -8,7 +8,7 @@
 
 ### 🔭 I’m currently working and studying with:
 - **Basic Programming and Programming Contests**
-- **Infra, Network, Linux Terminal, Git, Docker, Virtual Machines**
+- **Virtual Machines, Infra and Security, Network, Linux Terminal, Git, Docker**
 - **Hackintosh, Final Cut Pro, Logic Pro, Photoshop, Lightroom** 
 
 ### ⚡ My Github Stats
