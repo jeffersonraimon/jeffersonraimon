@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 I’m currently working and studying with:
-- **Basic Programming and Programming Contests**
+- **Basic Programming (C++ and Python) and Programming Contests**
 - **Virtual Machines, Infra, Ethical Hacking, Information Security, Networks**
 - **Linux Terminal, Windows, Active Directory, Git, Docker, AWS**
 - **Hackintosh, Final Cut Pro, Logic Pro, Photoshop, Lightroom** 
