@@ -2,7 +2,7 @@
 
 ### 😄 About me:
 
-**License in Computer student - [UFBA](https://ufba.br)** | **Amateur Photographer - [Behance](https://www.behance.net/jeffersonraimon) / [Instagram](https://www.instagram.com/raimonsclicks/)**
+**Computer student - [UFBA](https://ufba.br)** | **Amateur Photographer - [Behance](https://www.behance.net/jeffersonraimon) / [Instagram](https://www.instagram.com/raimonsclicks/)**
 
 ---
 
