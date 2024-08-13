@@ -2,7 +2,7 @@
 
 ### 😄 About me:
 
-**Computer student - [UFBA](https://ufba.br)** | **Amateur Photographer - [Behance](https://www.behance.net/jeffersonraimon) / [Instagram](https://www.instagram.com/raimonsclicks/)**
+**Computer student - [UFBA](https://ufba.br)** | **Computer Networking student - [ESTÁCIO](https://estacio.br)** | **Amateur Photographer - [Behance](https://www.behance.net/jeffersonraimon) / [Instagram](https://www.instagram.com/raimonsclicks/)**
 
 ---
 
